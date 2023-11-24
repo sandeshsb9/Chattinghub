@@ -22,9 +22,9 @@ Chatting Hub is a web application designed for spontaneous and anonymous convers
 * JavaScript: Enhances interactivity and handles real-time communication.
 
 # 2.Backend:
-Node.js: Powers the server-side functionality.
+* Node.js: Powers the server-side functionality.
 
-WebSocket: Facilitates real-time communication between users.
+* WebSocket: Facilitates real-time communication between users.
 
 # Getting Started
 
