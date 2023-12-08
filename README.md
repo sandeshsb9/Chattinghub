@@ -1,4 +1,4 @@
-# Chattinghub => https://chattinghub.onrender.com
+# Chattinghub
 
 # Introduction 
 Chatting Hub is a web application designed for spontaneous and anonymous conversations with random people. Built using HTML, CSS, JavaScript, and Node.js, this project aims to provide a simple and engaging platform for users to connect and chat in real-time.
